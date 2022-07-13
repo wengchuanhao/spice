@@ -1,4 +1,4 @@
-package dgb.spice.spice.configuration;
+package dgb.spice.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
